@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 161b06735ba1e4b47bc2fbd1e320ffb1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - currentMap: {instanceID: 0}
+  - nextMap: {instanceID: 0}
+  - aliveTile: {fileID: 11400000, guid: 8007f0122e1ce1941b57aa273ddd354e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
